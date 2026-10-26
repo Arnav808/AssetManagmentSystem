@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="org.eclipse.jdt.launching.junit.junitlaunchConfiguration">
+  <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Main"/>
+  <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="asset-management-system"/>
+  <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea"/>
+  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="bin"/>
+  <booleanAttribute key="org.eclipse.jdt.launching.ATTR_BUILD_BEFORE_RUN" value="true"/>
+</launchConfiguration>
